@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently looking for my next adventure. Hit me up at my email.<br>🌱 I’m currently learning every new Javascript framework that gets released every 5 seconds<br>💬 Ask me about life story<br>⚡ Fun fact.<br>When I was learning to program, I leaked my AWS keys, and the next month, I got a 4k bill from AWS. Lesson Learned
+🔭 I'm currently looking for my next adventure. Hit me up at my email.<br>🌱 I’m currently learning every new Javascript framework that gets released every 5 seconds<br>💬 Ask me about my life story<br>⚡ Fun fact.<br>When I was learning how to code, I leaked my AWS keys, and the next month, I got a 4k bill from AWS. Lesson Learned
 
 
 ## 🌐 Socials:
